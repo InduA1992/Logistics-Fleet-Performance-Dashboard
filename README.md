@@ -96,13 +96,6 @@ This dashboard enables logistics managers to:
 - Support data-driven operational decisions.
 
 ---
-
-## 📷 Dashboard Preview
-
-<img src="Images/Dashboard.png" width="100%">
-
----
-
 ## 📁 Repository Structure
 
 ```
